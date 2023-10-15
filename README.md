@@ -1,6 +1,6 @@
 # Calculator
 
-Latihan 1 PBKK - Membuat Aplikasi Desktop Sederhana
+Pertemuan 2 - Membuat Aplikasi Desktop Sederhana
 
 Nama: Rayhan Almer Kusumah  
 NRP: 502521115  
